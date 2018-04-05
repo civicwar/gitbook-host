@@ -1,41 +1,30 @@
-# Sumário
+# Table of contents
 
-### versão 1
-### Inicío
-* [Introdução](README.md)
-    * [Sobre esta documentação](README.md#sobre)
-    * [O que é a MySNS Carteira](README.md#ces)
-    * [Como ativar](README.md#ativar)
-    * [Como adicionar cartões](README.md#addcartoes)
-* [FAQ - Suporte](faq.md)
-* [FAQ - Tempos](faqtempos.md)
-* [OpenSource - Porquê?](opensource.md)
+* [Cartões Dinâmicos](README.md)
 
-* [Instalação e Setup](install&setup.md)
+## Inicío
 
-### Especificações Técnicas
+* [Introdução](inicio/introducao.md)
+* [FAQ - Suporte](inicio/faq-suporte.md)
+* [FAQ - Tempos](inicio/faq-tempos.md)
+* [OpenSource - Porquê?](inicio/opensource-porque.md)
+* [Instalação e Setup](inicio/instalacao-e-setup.md)
 
-* [Arquitetura Geral](arquitetura.md)
-* [Segurança Fisica e Lógica](seguranca.md) 
-* [Funcionamento](funcionamento.md)
-    * [Recolha de Dados](funcionamento.md#dados)
-    * [Interconexões de Dados](funcionamento.md#comunicacao)
-* [Backend - Serviços](backend.md)
-    *[Arquitetura Backend](backend.md#arq)
-    *[Serviços e Tecnologias](backend.md#servicos)
-    *[Segurança - Bibliotecas & Tools](backend.md#seg)
+## Especificações Técnicas
 
-### Desenvolvimento
-* [NativeScript and Angular](desenvolvimento.md)
-* [Style Guide](styleguide.md)
-    * [TypeScript](styleguide.md#typescript)
-    * [Git](styleguide.md#git)
+* [Arquitetura Geral](especificacoes-tecnicas/arquitetura-geral.md)
+* [Segurança Fisica e Lógica](especificacoes-tecnicas/seguranca-fisica-e-logica.md)
+* [Funcionamento](especificacoes-tecnicas/funcionamento.md)
+* [Backend - Serviços](especificacoes-tecnicas/backend-servicos.md)
 
---
+## Desenvolvimento
 
+* [NativeScript and Angular](desenvolvimento/nativescript-and-angular.md)
+* [Style Guide](desenvolvimento/style-guide.md)
 * [Exemplos](exemplos.md)
-* [Developer Guide](dguide.md)
-
-* [Release Notes](release_notes.md)
+* [Developer Guide](developer-guide.md)
+* [Release Notes](release-notes.md)
 * [Roadmap](roadmap.md)
+* Cartões Dinâmicos
+  * [Arquitetura](cartoes-dinamicos/arquitetura.md)
 

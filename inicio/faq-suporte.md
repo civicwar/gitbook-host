@@ -3,34 +3,34 @@
 Esta página contempla uma lista de respostas a serem dadas a questões comuns, colocadas pelos utilizadores.  
 Versão suportada: `**3.x**`
 
-1. [Problemas no Registo](#P1)
-   * 1.1 [Acesso com RNU - Dados do utente inválidos \(desatualizados\)](#P11)
-2. [Problemas na autenticação](#P2)
-   * 2.1 [Código SMS não recebido](#P21)
-   * 2.2 [Código PIN inválido/esquecido](#P22)
-3. [Dificuldades técnicas na utilização](#P3)
-   * 3.1 [Erro ao adicionar cartão/ A Aplicação não abre / fecha abruptamente etc](#P31)
-4. [Reclamações, Elogios e Sugestões](#P4)
-5. [Problemas de instalação da aplicação](#P5)
-   * 5.1 [Dificuldades técnicas não relacionadas com a aplicação](#P51)
-   * 5.2 [Sistema Operativo \(SO\) não suportado \(Windows Phone\)](#P52)
-   * 5.3 [Versão de SO não suportada \(&lt; iOS 8 / &lt; Android 4.2 \)](#P53)
-6. [Problema a ser resolvido](#P6)
-7. [Problema já resolvido](#P7)
-8. [Funcionalidade não existente](#P8)
-9. [Adicionar Agregado Familiar](#P9)
+1. [Problemas no Registo](faq-suporte.md#P1)
+   * 1.1 [Acesso com RNU - Dados do utente inválidos \(desatualizados\)](faq-suporte.md#P11)
+2. [Problemas na autenticação](faq-suporte.md#P2)
+   * 2.1 [Código SMS não recebido](faq-suporte.md#P21)
+   * 2.2 [Código PIN inválido/esquecido](faq-suporte.md#P22)
+3. [Dificuldades técnicas na utilização](faq-suporte.md#P3)
+   * 3.1 [Erro ao adicionar cartão/ A Aplicação não abre / fecha abruptamente etc](faq-suporte.md#P31)
+4. [Reclamações, Elogios e Sugestões](faq-suporte.md#P4)
+5. [Problemas de instalação da aplicação](faq-suporte.md#P5)
+   * 5.1 [Dificuldades técnicas não relacionadas com a aplicação](faq-suporte.md#P51)
+   * 5.2 [Sistema Operativo \(SO\) não suportado \(Windows Phone\)](faq-suporte.md#P52)
+   * 5.3 [Versão de SO não suportada \(&lt; iOS 8 / &lt; Android 4.2 \)](faq-suporte.md#P53)
+6. [Problema a ser resolvido](faq-suporte.md#P6)
+7. [Problema já resolvido](faq-suporte.md#P7)
+8. [Funcionalidade não existente](faq-suporte.md#P8)
+9. [Adicionar Agregado Familiar](faq-suporte.md#P9)
 
-### 1. Problemas no Registo {#P1}
+## 1. Problemas no Registo {#P1}
 
-#### 1.1 Acesso com RNU - Dados do utente inválidos \(desatualizados\) {#P11}
+### 1.1 Acesso com RNU - Dados do utente inválidos \(desatualizados\) {#P11}
 
 > Muito obrigado pela sua mensagem. É através das opiniões e sugestões dos cidadãos que conseguimos melhorar as nossas aplicações.
 >
 > De modo a poder atualizar os seus dados de utente, por favor dirija-se ao seu centro de saúde, solicite a atualização do seu número de telemóvel e verifique os restantes dados.
 
-### 2. Problemas na autenticação {#P2}
+## 2. Problemas na autenticação {#P2}
 
-#### 2.1 Código SMS não recebido {#P21}
+### 2.1 Código SMS não recebido {#P21}
 
 > Muito obrigado pela sua mensagem. É através das opiniões e sugestões dos cidadãos que conseguimos melhorar as nossas aplicações.
 >
@@ -41,7 +41,7 @@ Versão suportada: `**3.x**`
 >
 > Espero que continue a utilizar a MySNS Carteira e que as atualizações sejam do seu agrado.
 
-#### 2.2 Código PIN inválido/esquecido {#P22}
+### 2.2 Código PIN inválido/esquecido {#P22}
 
 > Muito obrigado pela sua mensagem. É através das opiniões e sugestões dos cidadãos que conseguimos melhorar as nossas aplicações.
 >
@@ -49,9 +49,9 @@ Versão suportada: `**3.x**`
 >
 > Espero que continue a utilizar a MySNS Carteira e que as atualizações sejam do seu agrado.
 
-### 3. Dificuldades técnicas na utilização {#P3}
+## 3. Dificuldades técnicas na utilização {#P3}
 
-#### 3.1 Erro ao adicionar cartão/ A Aplicação não abre / fecha abruptamente etc {#P31}
+### 3.1 Erro ao adicionar cartão/ A Aplicação não abre / fecha abruptamente etc {#P31}
 
 > Obrigado pela sua mensagem.
 >
@@ -60,7 +60,7 @@ Versão suportada: `**3.x**`
 >
 > Pode-nos indicar qual o dispositivo móvel que utilizou \(modelo e versão\), de modo a que nos seja possível averiguar a situação?
 
-### 4. Reclamações, Elogios e Sugestões {#P4}
+## 4. Reclamações, Elogios e Sugestões {#P4}
 
 > Muito obrigado pela sua mensagem. É através das opiniões e sugestões dos cidadãos que conseguimos melhorar as nossas aplicações.  
 > Durante as próximas semanas iremos lançar novas atualizações com várias correções e novos recursos.
@@ -68,9 +68,9 @@ Versão suportada: `**3.x**`
 > A MySNS Carteira é uma aplicação em contante desenvolvimento e testes. Agradecemos qualquer contribuição por parte dos cidadãos.  
 > Espero que continue a utilizar a MySNS Carteira e que as atualizações sejam do seu agrado.
 
-### 5. Problemas de instalação da aplicação {#P5}
+## 5. Problemas de instalação da aplicação {#P5}
 
-#### 5.1 Dificuldades técnicas não relacionadas com a aplicação {#P51}
+### 5.1 Dificuldades técnicas não relacionadas com a aplicação {#P51}
 
 Ex. como atualizar o dispositivo móvel
 
@@ -81,7 +81,7 @@ Ex. como atualizar o dispositivo móvel
 >
 > Com os melhores cumprimentos,
 
-#### 5.2 Sistema Operativo \(SO\) não suportado \(Windows Phone\) {#P52}
+### 5.2 Sistema Operativo \(SO\) não suportado \(Windows Phone\) {#P52}
 
 > Muito obrigado pela sua mensagem. É através das opiniões e sugestões dos cidadãos que conseguimos melhorar as nossas aplicações.
 >
@@ -96,7 +96,7 @@ Ex. como atualizar o dispositivo móvel
 >
 > Assim, de acordo com a alínea e\) da Política de saúde apostada na Lei de bases da saúde, a gestão dos recursos disponíveis deve ser conduzida por forma a obter deles o maior proveito socialmente útil e a evitar o desperdício e a utilização indevida dos serviços, tendo o MS optado por chegar o mais rapidamente possível ao maior numero de cidadãos, não se encontrando previstos desenvolvimentos para as plataformas Windows Mobile de momento.
 
-#### 5.3 Versão de SO não suportada \(&lt; iOS 8 / &lt; Android 4.2 \) {#P53}
+### 5.3 Versão de SO não suportada \(&lt; iOS 8 / &lt; Android 4.2 \) {#P53}
 
 **Versão curta:**
 
@@ -119,7 +119,7 @@ Ex. como atualizar o dispositivo móvel
 >
 > Assim, de acordo com a alínea e\) da Política de saúde apostada na Lei de bases da saúde, a gestão dos recursos disponíveis deve ser conduzida por forma a obter deles o maior proveito socialmente útil e a evitar o desperdício e a utilização indevida dos serviços, tendo o MS optado por chegar o mais rapidamente possível ao maior numero de cidadãos, não se encontrando previstos desenvolvimentos para as versões anteriores ao Android 4.2 e iOS 8.
 
-### 6. Problema a ser resolvido {#P6}
+## 6. Problema a ser resolvido {#P6}
 
 > Boa tarde, Muito obrigado pela sua mensagem. É através das opiniões e sugestões dos cidadãos que conseguimos melhorar as nossas aplicações.
 >
@@ -128,7 +128,7 @@ Ex. como atualizar o dispositivo móvel
 > A MySNS Carteira é uma aplicação em constante desenvolvimento e testes. Agradecemos qualquer contribuição por parte dos cidadãos. Durante as próximas semanas iremos disponibilizar novas atualizações com várias correções e novos recursos.  
 > Com os melhores cumprimentos,
 
-### 7. Problema já resolvido {#P7}
+## 7. Problema já resolvido {#P7}
 
 > Boa tarde, Muito obrigado pela sua mensagem.
 >
@@ -136,7 +136,7 @@ Ex. como atualizar o dispositivo móvel
 >
 > A MySNS Carteira é uma aplicação em contante desenvolvimento e testes. Agradecemos qualquer contribuição por parte dos cidadãos. Durante as próximas semanas iremos disponibilizar novas atualizações com várias correções e novos recursos. Com os melhores cumprimentos,
 
-### 8. Funcionalidade não existente {#P8}
+## 8. Funcionalidade não existente {#P8}
 
 > Boa tarde, Muito obrigado pela sua mensagem. É através das opiniões e sugestões dos cidadãos que conseguimos melhorar as nossas aplicações.
 >
@@ -144,15 +144,11 @@ Ex. como atualizar o dispositivo móvel
 >
 > A MySNS Carteira é uma aplicação em contante desenvolvimento e testes. Agradecemos qualquer contribuição por parte dos cidadãos. Durante as próximas semanas iremos disponibilizar novas atualizações com várias correções e novos recursos. Com os melhores cumprimentos,
 
-### 9. Adicionar Agregado Familiar {#P9}
+## 9. Adicionar Agregado Familiar {#P9}
 
 > Muito obrigado pela sua mensagem. É através das opiniões e sugestões dos cidadãos que conseguimos melhorar as nossas aplicações.  
-> A possibilidade de adicionar o agregado familiar já está a ser estudada, no entanto é uma situação de elevada complexidade do ponto de vista legal. 
-> Durante as próximas semanas iremos lançar novas atualizações com várias correções e novos recursos.
+> A possibilidade de adicionar o agregado familiar já está a ser estudada, no entanto é uma situação de elevada complexidade do ponto de vista legal. Durante as próximas semanas iremos lançar novas atualizações com várias correções e novos recursos.
 >
 > A MySNS Carteira é uma aplicação em contante desenvolvimento e testes. Agradecemos qualquer contribuição por parte dos cidadãos.  
 > Espero que continue a utilizar a MySNS Carteira e que as atualizações sejam do seu agrado.
-
-
-
 

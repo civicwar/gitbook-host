@@ -1,17 +1,17 @@
-# Arquitetura da Aplicação
+# Arquitetura Geral
 
-![Arquitetura CeS](images/geral.png)
+![Arquitetura CeS](../.gitbook/assets/geral.png)
 
-A aplicação CeS é desenvolvida em Angular 2, pelo que apresenta a arquitectura demonstrada no  diagrama anterior.   
+A aplicação CeS é desenvolvida em Angular 2, pelo que apresenta a arquitectura demonstrada no diagrama anterior.  
 De o modo geral, é constituida por 2 componentes gerais: **Módulos** e **Serviços**.
 
-![Arquitetura CeS](images/arqces1.png)
+![Arquitetura CeS](../.gitbook/assets/arqces1.png)
 
 ### Módulos
 
 Entre os módulos, cada um destes tem a sua responsabilidade, facilitando assim uma manutenção mais simples.
 
-**AppModule** -  Cada aplicativo tem pelo menos um módulo Angular, o módulo raiz \(_root_\) que inicia o aplicativo. Cartões de Introdução e Error \(páginas de erro\),
+**AppModule** - Cada aplicativo tem pelo menos um módulo Angular, o módulo raiz \(_root_\) que inicia o aplicativo. Cartões de Introdução e Error \(páginas de erro\),
 
 **PinModule** - modulo para registo do PIN da Carteira, autenticação e mudança de PIN, com ligação ao serviço encriptado de Autenticação. O PIN fica guardado apenas no armazenamento do dispositivo móvel \(Storage Service\).
 
@@ -25,7 +25,7 @@ Entre os módulos, cada um destes tem a sua responsabilidade, facilitando assim 
 
 ### Serviços
 
-**AuthenticationService** - Autenticação e ligação aos servidores  \(Backend\) de forma segura e encriptada.
+**AuthenticationService** - Autenticação e ligação aos servidores \(Backend\) de forma segura e encriptada.
 
 **BackendService** - ligação às base de dados dos vários sistemas de informação \(centrais e locais\) e o Servidor CeS \(Azure Container Service -Docker Swarm\) é feita usando o protocolo HTTPS \(ver diagrama 1\)
 
@@ -37,17 +37,17 @@ Toda a informação trocada é ainda encriptada e assinada digitalmente usando o
 
 ### Comunicação
 
-![Arquitetura CeS Comunicação](images/arqCeS2.png)
+![Arquitetura CeS Comunicação](../.gitbook/assets/arqces2.png)
 
 ## Arquitetura NativeScript
 
-Para mais informações sobre a arquitetura default de nativescript consulte esta [secção](desenvolvimento.md)
+Para mais informações sobre a arquitetura default de nativescript consulte esta [secção](../desenvolvimento/nativescript-and-angular.md)
 
-![NativeScript](images/diagrama_native.png)
+![NativeScript](../.gitbook/assets/diagrama_native.png)
 
 ### Plugins
 
-[appavailability](http://plugins.nativescript.org/plugin/nativescript-appavailability) -  para verificar a disponibilidade de outros aplicativos no dispositivo
+[appavailability](http://plugins.nativescript.org/plugin/nativescript-appavailability) - para verificar a disponibilidade de outros aplicativos no dispositivo
 
 [calendar](http://plugins.nativescript.org/plugin/nativescript-calendar) - permite manipular eventos no calendário nativo do dispositivo, permitindo apagar, criar, eliminar e encontrar eventos. Na CeS, é utilizado para adicionar eventos de levantamento de prescrições da eGuia de Tratamento.
 

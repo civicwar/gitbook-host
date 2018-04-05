@@ -1,4 +1,4 @@
-# Cartões Dinâmicos
+# Introdução
 
 ## Sobre esta documentação {#sobre}
 
@@ -15,7 +15,7 @@ A MySNS Carteira é construída de forma a garantir os dois pilares essenciais d
 
 ## Como ativar {#ativar}
 
-![Adicionar Cartões](.gitbook/assets/ativar.gif)
+![Adicionar Cartões](../.gitbook/assets/ativar.gif)
 
 Após descarregar a aplicação das lojas específicas para o dispositivo \([Android](https://play.google.com/store/apps/details?id=pt.minsaude.spms.ces) e [iOS](https://itunes.apple.com/pt/app/mysns-carteira/id1192353854)\), o primeiro passo é a ativação da MySNS Carteira; esta ativação tem como objetivo associar o dispositivo móvel ao cidadão, para efeitos de identificação digital \(eID\).
 
@@ -28,7 +28,7 @@ Relativamente ao uso da CMD, esta é efetuada em conformidade e nos termos da Le
 
 ## Como adicionar cartões {#addcartoes}
 
-![Adicionar Cartões](.gitbook/assets/addcartoes.gif)
+![Adicionar Cartões](../.gitbook/assets/addcartoes.gif)
 
 O cidadão poderá associar “cartões” específicos por componentes informativas do seu interesse. Até ao momento, estão disponiveis os seguintes cartões:
 
@@ -40,23 +40,23 @@ eGuias de Tratamento – guias de tratamento com códigos de dispensa relativos 
 
 Para adicionar cartões deverá utilizar o botão 
 
-![mais](.gitbook/assets/mais.png)
+![mais](../.gitbook/assets/mais.png)
 
 .
 
 Se a carteira estiver livre de cartões, poderá também utilizar o botão 
 
-![adicionar cartões](.gitbook/assets/addcartoes.png)
+![adicionar cartões](../.gitbook/assets/addcartoes.png)
 
 .
 
 ## Como Terminar Sessão {#terminar}
 
-![Adicionar Cartões](.gitbook/assets/termsessao.gif)
+![Adicionar Cartões](../.gitbook/assets/termsessao.gif)
 
  Para terminar sessão, basta ir ao menu esquerdo 
 
-![menu](.gitbook/assets/menu.png)
+![menu](../.gitbook/assets/menu.png)
 
  e nas 
 
