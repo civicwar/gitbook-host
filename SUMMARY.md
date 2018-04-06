@@ -18,6 +18,8 @@
 * [Backend - Serviços](especificacoes-tecnicas/backend-servicos.md)
 * [Cartões Dinâmicos](especificacoes-tecnicas/cartoes-dinamicos/README.md)
   * [Arquitetura](especificacoes-tecnicas/cartoes-dinamicos/arquitetura.md)
+  * Dispatcher
+  * Untitled
 
 ## Desenvolvimento
 

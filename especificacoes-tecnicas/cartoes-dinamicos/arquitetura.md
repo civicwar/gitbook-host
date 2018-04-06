@@ -33,6 +33,9 @@ description: Definição da arquitetura a implementar nos cartões dinâmicos
       * sumário informativo do cartão — _modo cartão de carteira _
       * Informação completa do cartão — _ver mais_
 * `Dispatcher`  — Ponto de contacto entre a aplicação e os serviços disponíveis
+  * Ver 
+* `Card Repository`  — Repositório de cartões
+  * Ver 
 
 
 
