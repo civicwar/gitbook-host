@@ -18,7 +18,7 @@
 * [Backend - Serviços](especificacoes-tecnicas/backend-servicos.md)
 * [Cartões Dinâmicos](especificacoes-tecnicas/cartoes-dinamicos/README.md)
   * [Arquitetura](especificacoes-tecnicas/cartoes-dinamicos/arquitetura.md)
-  * Dispatcher
+  * [Dispatcher](especificacoes-tecnicas/cartoes-dinamicos/dispatcher.md)
   * [SNS Carteira](especificacoes-tecnicas/cartoes-dinamicos/sns-carteira.md)
 
 ## Desenvolvimento
