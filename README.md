@@ -38,13 +38,13 @@ ADSE – Cartão da ADSE;
 
 eGuias de Tratamento – guias de tratamento com códigos de dispensa relativos à Receita Sem Papel;
 
-Para adicionar cartões deverá utilizar o botão 
+Para adicionar cartões deverá utilizar o botão
 
 ![mais](.gitbook/assets/mais.png)
 
 .
 
-Se a carteira estiver livre de cartões, poderá também utilizar o botão 
+Se a carteira estiver livre de cartões, poderá também utilizar o botão
 
 ![adicionar cartões](.gitbook/assets/addcartoes.png)
 
@@ -54,15 +54,15 @@ Se a carteira estiver livre de cartões, poderá também utilizar o botão
 
 ![Adicionar Cartões](.gitbook/assets/termsessao.gif)
 
- Para terminar sessão, basta ir ao menu esquerdo 
+Para terminar sessão, basta ir ao menu esquerdo
 
 ![menu](.gitbook/assets/menu.png)
 
- e nas 
+e nas
 
 **Definições**
 
- irá encontrar a opção 
+irá encontrar a opção
 
 **Terminar Sessão**
 

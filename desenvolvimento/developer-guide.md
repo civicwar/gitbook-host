@@ -1,6 +1,6 @@
 # Developer Guide
 
-![Roadmap](.gitbook/assets/plano_comlegenda%20%281%29.png)
+![Roadmap](../.gitbook/assets/plano_comlegenda%20%281%29.png)
 
 ### Instalação
 

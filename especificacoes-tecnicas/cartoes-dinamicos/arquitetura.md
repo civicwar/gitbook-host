@@ -6,9 +6,7 @@ description: Definição da arquitetura a implementar nos cartões dinâmicos
 
 ![Arquitetura do sistema a implementar](../../.gitbook/assets/arquitetura.png)
 
-
-
-### Módulos do sistema
+## Módulos do sistema
 
 * `MySNS Carteira` — Aplicação móvel que terá as seguintes funcionalidades:
   * Ver 
@@ -16,6 +14,4 @@ description: Definição da arquitetura a implementar nos cartões dinâmicos
   * Ver 
 * `Card Repository`  — Repositório de cartões
   * Ver 
-
-
 

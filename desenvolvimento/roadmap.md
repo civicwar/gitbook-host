@@ -1,6 +1,6 @@
 # Roadmap
 
-![Roadmap](.gitbook/assets/plano_comlegenda.png)
+![Roadmap](../.gitbook/assets/plano_comlegenda.png)
 
 ## Geral
 

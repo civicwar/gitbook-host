@@ -19,14 +19,14 @@
 * [Cartões Dinâmicos](especificacoes-tecnicas/cartoes-dinamicos/README.md)
   * [Arquitetura](especificacoes-tecnicas/cartoes-dinamicos/arquitetura.md)
   * Dispatcher
-  * [SNS Carteira](especificacoes-tecnicas/cartoes-dinamicos/untitled.md)
+  * SNS Carteira
 
 ## Desenvolvimento
 
 * [NativeScript and Angular](desenvolvimento/nativescript-and-angular.md)
 * [Style Guide](desenvolvimento/style-guide.md)
-* [Exemplos](exemplos.md)
-* [Developer Guide](developer-guide.md)
-* [Release Notes](release-notes.md)
-* [Roadmap](roadmap.md)
+* [Exemplos](desenvolvimento/exemplos.md)
+* [Developer Guide](desenvolvimento/developer-guide.md)
+* [Release Notes](desenvolvimento/release-notes.md)
+* [Roadmap](desenvolvimento/roadmap.md)
 
