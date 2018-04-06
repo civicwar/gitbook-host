@@ -16,7 +16,7 @@
 * [Segurança Fisica e Lógica](especificacoes-tecnicas/seguranca-fisica-e-logica.md)
 * [Funcionamento](especificacoes-tecnicas/funcionamento.md)
 * [Backend - Serviços](especificacoes-tecnicas/backend-servicos.md)
-* Cartões Dinâmicos
+* [Cartões Dinâmicos](especificacoes-tecnicas/cartoes-dinamicos/README.md)
   * [Arquitetura](especificacoes-tecnicas/cartoes-dinamicos/arquitetura.md)
 
 ## Desenvolvimento
