@@ -35,12 +35,20 @@ Será definido pela SPMS, qual o número máximo de cartões que possam estar in
 
 ## Processo de instanciação de um novo cartão
 
-Um utilizador da aplicação SNS carteira, quando quiser — desde que esteja ligado à rede — poderá selecionar um cartão que necessite. E este será o processo por baixo:
+Um utilizador da aplicação SNS carteira, quando quiser — desde que esteja ligado à rede — poderá selecionar um cartão que necessite. 
 
 1. Ao entrar na lista de cartões disponíveis
-   1. Download do ficheiro all-metadata.json
-   2. Validar all-metadata.json com um json-schema
-   3. all-metadata.json, contém todos os cartões disponíveis de momento na plataforma de cartões dinâmicos. \( ver estrutura \)
+   1. Download do ficheiro `all-metadata.json`
+   2. Validar `all-metadata.json` com um json-schema
+   3. `all-metadata.json`, contém todos os cartões disponíveis de momento na plataforma de cartões dinâmicos. \( ver [estrutura](sns-carteira.md#estrutura-json-do-all-metadata.json) \)
+2. Ao seleccionar um cartão para adicionar
+   1. Verificar existência do cartão na cache local
+      1. **Se não existir**, ou se a versão do cartão local for anterior à verificada no  `all-metadata.json`, será feito o download do cartão.
+   2. Verificar os checksum dos cartões com o que vem no `all-metadata.json` 
+      1. **Se não coincidir**, informar o utilizador, perguntar se deve fazer novamente download do cartão e informar a plataforma da CeS desta situação.
+   3. Adicionar o cartão na carteira, sendo neste caso utilizado o `min-template.js` para o cartão pequeno, no ato de instanciação, será chamado a função `onInstall(API)` que irá informar a plataforma que houve uma instalação desse cartão, servindo ao mesmo tempo, para validar se o cartão foi instalado como deve ser.
+3. Ao seleccionar o _Ver Mais_  num cartão
+   1. Instanciar a versão full do cartão, utilizando `full-template.js`, e no ato de instanciação, será chamado a função `onInstall(API)` que irá informar a plataforma que houve uma instalação desse cartão, servindo ao mesmo tempo, para validar se o cartão foi instalado como deve ser.
 
 
 
