@@ -9,7 +9,7 @@ description: Definição da arquitetura a implementar nos cartões dinâmicos
 ## Módulos do sistema
 
 * `MySNS Carteira` — Aplicação móvel que terá as seguintes funcionalidades:
-  * Ver 
+  * Ver \[SNS Carteira\]\(./sns-carteira.md\)
 * `Dispatcher`  — Ponto de contacto entre a aplicação e os serviços disponíveis
   * Ver 
 * `Card Repository`  — Repositório de cartões
