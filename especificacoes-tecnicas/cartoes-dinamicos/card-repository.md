@@ -38,7 +38,7 @@ Deste modo, na submissão de um cartão, a entidade interessada poderá desenvol
 
 
 
-### Estrutura do Código de Submissão
+## Estrutura do Código de Submissão
 
 // TODO!!!
 
