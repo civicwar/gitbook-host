@@ -54,5 +54,5 @@ Um utilizador da aplicação SNS carteira, quando quiser — desde que esteja li
 
 ## Estrutura JSON do all-metadata.json
 
-
+// todo
 
