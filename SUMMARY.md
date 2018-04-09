@@ -20,6 +20,7 @@
   * [Arquitetura](especificacoes-tecnicas/cartoes-dinamicos/arquitetura.md)
   * [Dispatcher](especificacoes-tecnicas/cartoes-dinamicos/dispatcher.md)
   * [SNS Carteira](especificacoes-tecnicas/cartoes-dinamicos/sns-carteira.md)
+  * [Card Repository](especificacoes-tecnicas/cartoes-dinamicos/card-repository.md)
 
 ## Desenvolvimento
 
