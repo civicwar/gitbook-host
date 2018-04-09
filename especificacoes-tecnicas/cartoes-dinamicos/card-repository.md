@@ -8,5 +8,5 @@ description: Repositório de Cartões dinâmicos
 
 Um pacote de cartões dinâmicos terá como estrutura a seguinte:
 
-
+![](../../.gitbook/assets/tree.png)
 
