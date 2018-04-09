@@ -23,26 +23,22 @@ Quando um utilizador escolher um cartão na lista de cartões disponíveis, o SN
 
 Um pacote de cartões dinâmicos terá como estrutura:
 
-#### Android
+#### Android & iOS
 
 * `metadata.json`
 * `min-template.js`
 * `full-template.js`
 * `resources`
-  * `drawable-hdpi`
-  * `drawable-ldpi`
-  * `drawable-mdpi`
-  * `drawable-nodpi`
-  * `drawable-xhdpi`
-  * `drawable-xxhdpi`
-  * `drawable-xxxhdpi`
-    * `...`
+  * `image1.png`
+  * `image1@2x.png`
+  * `image1@3x.png`
+  * `...`
 
-#### iOS
+Deste modo, na submissão de um cartão, a entidade interessada poderá desenvolver assets diferentes para cada tipo de plataforma.
 
-* metadata.json
-* min-template.js
-* full-template.js
-* resources
-  * 
+
+
+### Estrutura do Código de Submissão
+
+// TODO!!!
 
