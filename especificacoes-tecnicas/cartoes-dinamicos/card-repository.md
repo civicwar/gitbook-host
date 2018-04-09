@@ -17,7 +17,21 @@ Utilizando como exemplo o cartão da PEM, o repositório terá as seguintes entr
 * `pem_v1.0.0_android.zip`
 * `pem_v1.0.0_ios.zip`
 
+Quando um utilizador escolher um cartão na lista de cartões disponíveis, o SNS Carteira irá fazer download do pacote referente ao tipo de sistema operativo, onde está a ser corrido a aplicação.
+
 ## Estrutura dos Pacotes Compilados
 
-Um pacote de cartões dinâmicos terá como estrutura a seguinte:
+Um pacote de cartões dinâmicos terá como estrutura:
+
+#### Android
+
+* metadata.json
+* min-template.js
+* full-template.js
+* resources
+  * 
+
+#### iOS
+
+
 
