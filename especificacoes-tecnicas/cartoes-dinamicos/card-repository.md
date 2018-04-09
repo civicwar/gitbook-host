@@ -14,7 +14,8 @@ Cada cartão terá **duas** versões, **inerentes do mesmo código fonte**, mas 
 
 Utilizando como exemplo o cartão da PEM, o repositório terá as seguintes entradas:
 
-* `pem\`_`v1.0.0\`_
+* `pem\_v1.0.0\_android.zip`
+* `pem\_v1.0.0\_ios.zip`
 
 ### 
 
