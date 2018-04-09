@@ -25,13 +25,24 @@ Um pacote de cartões dinâmicos terá como estrutura:
 
 #### Android
 
+* `metadata.json`
+* `min-template.js`
+* `full-template.js`
+* `resources`
+  * `drawable-hdpi`
+  * `drawable-ldpi`
+  * `drawable-mdpi`
+  * `drawable-nodpi`
+  * `drawable-xhdpi`
+  * `drawable-xxhdpi`
+  * `drawable-xxxhdpi`
+    * `...`
+
+#### iOS
+
 * metadata.json
 * min-template.js
 * full-template.js
 * resources
   * 
-
-#### iOS
-
-
 
