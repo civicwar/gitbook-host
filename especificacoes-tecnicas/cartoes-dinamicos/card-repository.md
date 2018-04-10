@@ -42,3 +42,9 @@ Deste modo, na submissão de um cartão, a entidade interessada poderá desenvol
 
 // TODO!!!
 
+
+
+## JSON Schema:metadata.json
+
+// TODO !!!
+
