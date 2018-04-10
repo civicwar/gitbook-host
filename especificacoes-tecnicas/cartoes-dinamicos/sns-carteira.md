@@ -66,10 +66,12 @@ Um utilizador da aplicação SNS carteira, quando quiser — desde que esteja li
       "type": "string"
     },
     "cards": {
+      "minItems": 1,
       "description": "Available Cards",
       "type": "array",
       "items": {
         "type": "object",
+        "required": ["version", "title", "description", "color", "hasNext"],
         "properties": {
           "version": {
             "description": "Version of the Card",
@@ -107,7 +109,7 @@ Um utilizador da aplicação SNS carteira, quando quiser — desde que esteja li
       }
     }
   },
-  "required": []
+  "required": ["version", "cards"]
 }
 
 ```
