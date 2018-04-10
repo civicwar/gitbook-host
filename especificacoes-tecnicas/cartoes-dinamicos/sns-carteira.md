@@ -54,5 +54,61 @@ Um utilizador da aplicação SNS carteira, quando quiser — desde que esteja li
 
 ## Estrutura JSON do all-metadata.json
 
-// todo
+```javascript
+{
+  "$schema": "http://json-schema.org/draft-06/schema#",
+  "title": "AllCardsMetadata",
+  "description": "List of All Cards available for CeS-App",
+  "type": "object",
+  "properties": {
+    "version": {
+      "description": "Version of the Metadata file",
+      "type": "string"
+    },
+    "cards": {
+      "description": "Available Cards",
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "version": {
+            "description": "Version of the Card",
+            "type": "string"
+          },
+          "checksum_android": {
+            "description": "CheckSum Value of the Card Package -- Android",
+            "type": "string"
+          },
+          "checksum_ios": {
+            "description": "CheckSum Value of the Card Package -- iOS",
+            "type": "string"
+          },
+          "title": {
+            "description": "Title of the Card",
+            "type": "string"
+          },
+          "description": {
+            "description": "Short Description of the Card",
+            "type": "string"
+          },
+          "color": {
+            "description": "Color of the Card",
+            "type": "string"
+          },
+          "hasNext": {
+            "description": "Checks if has Next Step",
+            "type": "boolean"
+          },
+          "onNext": {
+            "description": "Method to ask on Next Step",
+            "type": "string"
+          }
+        }
+      }
+    }
+  },
+  "required": []
+}
+
+```
 
