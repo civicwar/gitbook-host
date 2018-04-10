@@ -41,12 +41,15 @@ Um utilizador da aplicação SNS carteira, quando quiser — desde que esteja li
    1. Download do ficheiro `all-metadata.json`
    2. Validar `all-metadata.json` com um json-schema
    3. `all-metadata.json`, contém todos os cartões disponíveis de momento na plataforma de cartões dinâmicos. \( ver [estrutura](sns-carteira.md#estrutura-json-do-all-metadata.json) \)
+   4. Este template, será de **origem genérica**, logo não existe a necessidade de implementar uma instanciação dinâmica desta página.
 2. Ao seleccionar um cartão para adicionar
    1. Verificar existência do cartão na cache local
       1. **Se não existir**, ou se a versão do cartão local for anterior à verificada no  `all-metadata.json`, será feito o download do cartão.
    2. Verificar os checksum dos cartões com o que vem no `all-metadata.json` 
       1. **Se não coincidir**, informar o utilizador, perguntar se deve fazer novamente download do cartão e informar a plataforma da CeS desta situação.
-   3. Adicionar o cartão na carteira, sendo neste caso utilizado o `min-template.js` para o cartão pequeno, no ato de instanciação, será chamado a função `onInstall(API)` que irá informar a plataforma que houve uma instalação desse cartão, servindo ao mesmo tempo, para validar se o cartão foi instalado como deve ser.
+   3. No `all-metadata.json`, verificar se o cartão é do tipo `Lista` ou não
+      1. Se for do tipo `Lista`, o SNS Carteira chama a `API`, utilizando o código colocado no `onNext`. Mostrando uma Lista de sub-cartões que se podem adicionar à aplicação, e só depois de se selecionar um cartão que _não esteja já adicionado_, é que se passa para o **passo 4**. Este template, será de **origem genérica**, logo não existe a necessidade de implementar uma instanciação dinâmica desta página.
+   4. Adicionar o cartão na carteira, sendo neste caso utilizado o `min-template.js` para o cartão pequeno, no ato de instanciação, será chamado a função `onInstall(API)` que irá informar a plataforma que houve uma instalação desse cartão, servindo ao mesmo tempo, para validar se o cartão foi instalado como deve ser.
 3. Ao seleccionar o _Ver Mais_  num cartão
    1. Instanciar a versão full do cartão, utilizando `full-template.js`, e no ato de instanciação, será chamado a função `onInstall(API)` que irá informar a plataforma que houve uma instalação desse cartão, servindo ao mesmo tempo, para validar se o cartão foi instalado como deve ser.
 
